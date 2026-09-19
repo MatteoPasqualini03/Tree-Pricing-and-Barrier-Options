@@ -1,9 +1,0 @@
-#surefire_0
-#Wed Apr 29 15:17:03 UTC 2026
-maven.compiler.release=11
-basedir=/sessions/gracious-wizardly-fermi/mnt/fima20252026pwTemp
-maven.compiler.target=11
-test=DividendOptionPricingTest,BarrierOptionTreeTest
-maven.compiler.source=11
-surefire.useFile=false
-localRepository=/sessions/gracious-wizardly-fermi/.m2/repository
